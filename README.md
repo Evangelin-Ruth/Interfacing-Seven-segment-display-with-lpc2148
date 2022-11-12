@@ -1,13 +1,10 @@
 # Interfacing-Seven-segment-display-with-lpc2148
 
-Name:	
-Roll no 
-Date of experiment:
+Name: Evangelin	
+Roll no :212221230025
+Date of experiment: 12-11-22
 
-
-
-Ex. No. :
-Date: 
+ 
  
 
 ### Aim: To configure and display 4 character LED seven segment display and write a c code for displaying number 1 to 9 and A to F 
@@ -89,11 +86,19 @@ int main(void)
 
 ### OUTPUT:
 ## Before Stimulation:
+![exper8 off](https://user-images.githubusercontent.com/94219798/201467720-5007abd5-0a9d-4682-b267-3d29acb9fb9f.JPG)
 
 
 ## After Stimulation - Digit:
 
- 
+ ![exper8 num](https://user-images.githubusercontent.com/94219798/201467716-98184df6-36a8-4e15-aa51-15d68d6ae440.JPG)
+
+## After Stimulation - Alphabet:
+![exper8 alph](https://user-images.githubusercontent.com/94219798/201467731-9122d1d2-0bc5-4958-8ff1-d4f851f6bda9.JPG)
+
+## Circuit Diagram:
+![exper8 cir](https://user-images.githubusercontent.com/94219798/201467841-8319cb4b-d0d8-49c2-a295-504ee63b59a6.JPG)
+
 
 
 ### Result :
