@@ -106,4 +106,4 @@ int main(void)
 ### Result :
 LED seven segment display is interfaced and displayed alpha numeric characters 
 
-##  Output screen shots :
+
